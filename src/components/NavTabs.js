@@ -33,17 +33,6 @@ function NavTabs({ currentPage, handlePageChange }) {
           Portfolio
         </a>
       </li>
-      <li className="nav-item">
-        <a
-          href={Resume}
-          download
-          className={`nav-link ${
-            currentPage === "Resume" ? "active bg-secondary text-primary" : ""
-          }`}
-        >
-          Resume
-        </a>
-      </li>
 
       <li className="nav-item">
         <a
@@ -54,6 +43,17 @@ function NavTabs({ currentPage, handlePageChange }) {
           }`}
         >
           Contact
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href={Resume}
+          download
+          className={`nav-link ${
+            currentPage === "Resume" ? "active bg-secondary text-primary" : ""
+          }`}
+        >
+          Resume
         </a>
       </li>
     </ul>
