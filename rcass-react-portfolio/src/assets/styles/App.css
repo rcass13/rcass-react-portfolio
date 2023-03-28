@@ -12,6 +12,19 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+#homeCard
+{
+  height:60vh;
+  justify-content: center;
+  align-items: center;
+}
+
+#portfolioContainer {
+  display: flex;
+  height:100vh;
+  justify-content: center;
+  align-items: center;
+}
 
 .App-header {
   background-color: #282c34;
