@@ -3,7 +3,11 @@
 ## Deployed Link
 https://rose-cassidy-react-portfolio.herokuapp.com/
 
-## Screenshot
+# Screenshots
+
+#<img width="1440" alt="Screenshot 2023-03-28 at 12 03 40 AM" src="https://user-images.gith<img width="1427" alt="Screenshot 2023-03-28 at 12 17 50 AM" src="https://user-images.githubusercontent.com/113799534/228158389-45bf55b6-5d8d-4a41-b0fb-10fcc6a4c01e.png">
+ubusercontent.com/113799534/228157802-2e0512a2-83f5-4290-95f1-6b537ddc93ff.png">
+
 
 ## What I Learned
 I felt like I got a very good feel for react after doing this project. It was a great opportunity to refresh and boost my skills for css, as well. I had a great time building this app!
