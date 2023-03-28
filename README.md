@@ -5,8 +5,12 @@ https://rose-cassidy-react-portfolio.herokuapp.com/
 
 # Screenshots
 
-#<img width="1440" alt="Screenshot 2023-03-28 at 12 03 40 AM" src="https://user-images.gith<img width="1427" alt="Screenshot 2023-03-28 at 12 17 50 AM" src="https://user-images.githubusercontent.com/113799534/228158389-45bf55b6-5d8d-4a41-b0fb-10fcc6a4c01e.png">
-ubusercontent.com/113799534/228157802-2e0512a2-83f5-4290-95f1-6b537ddc93ff.png">
+images.gith<img width="1427" alt="Screenshot 2023-03-28 at 12 17 50 AM" src="https://user-images.githubusercontent.com/113799534/228158389-45bf55b6-5d8d-4a41-b0fb-10fcc6a4c01e.png">
+
+<img width="1439" alt="Screenshot 2023-03-28 at 12 19 01 AM" src="https://user-images.githubusercontent.com/113799534/228158662-008ff511-22a5-4717-a268-2f92a6390718.png">
+
+<img width="1435" alt="Screenshot 2023-03-28 at 12 19 34 AM" src="https://user-images.githubusercontent.com/113799534/228158799-a891385d-9443-4ca8-b30c-8b94991f5d53.png">
+
 
 
 ## What I Learned
