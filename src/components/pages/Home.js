@@ -13,7 +13,7 @@ export default function Home() {
         <div className="card-body">
           <h4 className="card-title">Hi, I'm Rose!</h4>
           <p className="card-text">I'm a 19-year-old web developer based in Seattle. I took my coding bootcamp at University of Washington and I specialize in building responsive and engaging web applications using HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB.</p>
-<p className="card-text">When I'm not coding, I love to unleash my creative side by working on art projects like crocheting, watercolor painting, and making jewelry. I believe that creativity is an essential part of life, and it helps me approach coding challenges with a unique perspective.</p>
+<p className="card-text">When I'm not coding, I love to unleash my creative side by working on art projects like crocheting, writing, and making jewelry. I believe that creativity is an essential part of life, and it helps me approach coding challenges with a unique perspective.</p>
 <p className="card-text">In addition to my passion for coding and art, I also have a keen interest in astrology. I am fascinated by the stars and use this knowledge to better understand myself and others around me. I believe that this insight can help me build more meaningful and authentic connections with people.</p>
 <p className="card-text">Overall, I'm excited about the future of web development and the opportunity to use my skills to create unique and engaging user experiences. Thank you for visiting my portfolio, and I can't wait to connect with you!</p>
 <img src={Avatar} className="card-img-top" alt="MyAvatar" style={{ width: '200px', height: '200px' }} />
