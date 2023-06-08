@@ -6,7 +6,7 @@ export default function Resume() {
     <div  style={{ margin:"40px",width:'max-width', height:'fit-content' }}>
       <h1>Resume</h1>
       <p>
-      <a href="https://drive.google.com/drive/u/0/my-drivef" download="Rose Cassidy Resume.pdf">Download my resume</a>
+      <a href="../../assets/misc/Rose-Cassidy-Resume.pdf" download="Rose Cassidy Resume.pdf">Download my resume</a>
       </p>
       <h2>Proficiencies</h2>
       <ul>

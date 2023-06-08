@@ -48,9 +48,9 @@ export default function Portfolio() {
         />
         <Card 
           imageSrc={sparklePlaceholder}
-          title="Project 4 Coming Soon!"
-          description="Working on beefing up the portfolio! Check back again soon <3"
-          link="#"
+          title="Explorot"
+          description="LEARN THE TAROT WITH NUMEROLOGY, ASTROLOGY, AND MEANINGS!"
+          link="explorot.herokuapp.com"
           color="success"
         />
         <Card 
