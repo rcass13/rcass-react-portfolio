@@ -2,6 +2,7 @@ import React from 'react';
 import weatherImage from '../../assets/images/weather_app.jpg';
 import exprecipesImage from '../../assets/images/expRecipes.jpg';
 import astrologicImage from '../../assets/images/astroLOGIC.jpg';
+import Explorot from "../../assets/images/Explorot.jpg"
 import sparklePlaceholder from '../../assets/images/sparklePlaceholder.png'
 
 
@@ -47,7 +48,7 @@ export default function Portfolio() {
           color="warning"
         />
         <Card 
-          imageSrc={sparklePlaceholder}
+          imageSrc={Explorot}
           title="Explorot"
           description="LEARN THE TAROT WITH NUMEROLOGY, ASTROLOGY, AND MEANINGS!"
           link="https://explorot.herokuapp.com/"
