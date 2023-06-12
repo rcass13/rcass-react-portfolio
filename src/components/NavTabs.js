@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../assets/misc/Rose-Cassidy-Resume.pdf"
+import Resume from "../assets/misc/Rose-Cassidy-Resume.docx"
 // import { Navbar } from 'react-bootstrap';
 
 function NavTabs({ currentPage, handlePageChange }) {

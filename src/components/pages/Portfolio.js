@@ -28,7 +28,7 @@ export default function Portfolio() {
         <Card 
           imageSrc={weatherImage}
           title="Project 1: Weather App"
-          description="FIVE DAY WEATHER FORECAST APP!"
+          description="FIVE DAY WEATHER FORECAST WHEN YOU SEARCH ANY CITY!"
           link="https://rcass13.github.io/weather-module-6/"
           color="primary"
         />
@@ -50,7 +50,7 @@ export default function Portfolio() {
           imageSrc={sparklePlaceholder}
           title="Explorot"
           description="LEARN THE TAROT WITH NUMEROLOGY, ASTROLOGY, AND MEANINGS!"
-          link="explorot.herokuapp.com"
+          link="https://explorot.herokuapp.com/"
           color="success"
         />
         <Card 
