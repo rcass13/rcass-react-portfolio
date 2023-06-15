@@ -1,13 +1,18 @@
 import React from "react";
-import Resume from "../assets/misc/Rose-Cassidy-Resume.docx"
-// import { Navbar } from 'react-bootstrap';
+import Resume from "../assets/misc/Rose-Cassidy-Resume.docx";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    // <Navbar className="justify-content-center align-items-center">
     <ul
-      style={{ display: "flex", width: "max-width", height: "fit-content" }}
-      className="display-flex navbar navbar-expand-lg bg-dark nav nav-tabs justify-content-space-between"
+      style={{
+        display: "flex",
+        width: "100%",
+        height: "fit-content",
+        paddingRight: '30px',
+        paddingLeft: '30px',
+        justifyContent: "space-between", // Spread out the navbar items
+      }}
+      className="navbar navbar-expand-lg bg-dark nav nav-tabs"
     >
       <li className="nav-item">
         <a
@@ -57,7 +62,6 @@ function NavTabs({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
-    /* </Navbar> */
   );
 }
 

@@ -23,7 +23,7 @@ const Card = ({ imageSrc, title, description, link, color }) => {
 
 export default function Portfolio() {
   return (
-    <div style={{ margin:"70px",width:'max-width', height:'fit-content' }}>
+    <div style={{ margin:"70px",width:'max-width', height:'fit-content', paddingBottom:"100px"}}>
       <h1>SOME OF MY PROJECTS:</h1>
       <div className="row">
         <Card 

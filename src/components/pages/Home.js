@@ -24,7 +24,9 @@ export default function Home() {
     );
   }
   return (
-    <div className="container justify-content-center align-items-center" style={{ height: '70rem' }}>
+    <div className="container justify-content-center align-items-center" 
+    style={{ height: '50rem' }}
+    >
       <Card style={{ height: '90rem', width: '100vh' }}/>
     </div>
   );
