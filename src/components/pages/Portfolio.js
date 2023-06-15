@@ -41,7 +41,7 @@ export default function Portfolio() {
       <div className="row">
       <Card
           imageSrc={Explorot}
-          title="Explorot"
+          title="Project 1: Explorot"
           description="LEARN THE TAROT WITH NUMEROLOGY, ASTROLOGY, AND MEANINGS!"
           link="https://explorot.herokuapp.com/"
           target="_blank"
@@ -65,7 +65,7 @@ export default function Portfolio() {
         />
          <Card
           imageSrc={weatherImage}
-          title="Project 1: Weather App"
+          title="Project 4: Weather App"
           description="FIVE DAY WEATHER FORECAST WHEN YOU SEARCH ANY CITY!"
           link="https://rcass13.github.io/weather-module-6/"
           target="_blank"
