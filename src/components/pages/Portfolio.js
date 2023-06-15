@@ -31,6 +31,7 @@ export default function Portfolio() {
           title="Project 1: Weather App"
           description="FIVE DAY WEATHER FORECAST WHEN YOU SEARCH ANY CITY!"
           link="https://rcass13.github.io/weather-module-6/"
+          target="_blank"
           color="primary"
         />
         <Card 
@@ -38,6 +39,7 @@ export default function Portfolio() {
           title="Project 2: ExpRecipes"
           description="SEARCH FOR RECIPES AND ADD INGREDIENTS TO YOUR GROCERY LIST!"
           link="https://joshuaelitate.github.io/ExpRecipe/"
+          target="_blank"
           color="danger"
         />
         <Card 
@@ -45,6 +47,7 @@ export default function Portfolio() {
           title="Project 3: AstroLOGIC"
           description="MAKE AN ACCOUNT TO VIEW ASTROLOGICAL INFORMATION AND HOROSCOPE!"
           link="https://astrologic.herokuapp.com/"
+          target="_blank"
           color="warning"
         />
         <Card 
@@ -52,6 +55,7 @@ export default function Portfolio() {
           title="Explorot"
           description="LEARN THE TAROT WITH NUMEROLOGY, ASTROLOGY, AND MEANINGS!"
           link="https://explorot.herokuapp.com/"
+          target="_blank"
           color="success"
         />
         <Card 
@@ -59,6 +63,7 @@ export default function Portfolio() {
           title="Project 5 Coming Soon!"
           description="Working on beefing up the portfolio! Check back again soon <3"
           link="#"
+          target="_blank"
           color="info"
         />
         <Card 
@@ -66,6 +71,7 @@ export default function Portfolio() {
           title="Project 6 Coming Soon!"
           description="Working on beefing up the portfolio! Check back again soon <3"
           link="#"
+          target="_blank"
           color="primary"
         />
       </div>
