@@ -39,14 +39,15 @@ export default function Portfolio() {
     >
       <h1>SOME OF MY PROJECTS:</h1>
       <div className="row">
-        <Card
-          imageSrc={weatherImage}
-          title="Project 1: Weather App"
-          description="FIVE DAY WEATHER FORECAST WHEN YOU SEARCH ANY CITY!"
-          link="https://rcass13.github.io/weather-module-6/"
+      <Card
+          imageSrc={Explorot}
+          title="Explorot"
+          description="LEARN THE TAROT WITH NUMEROLOGY, ASTROLOGY, AND MEANINGS!"
+          link="https://explorot.herokuapp.com/"
           target="_blank"
           color="primary"
         />
+       
         <Card
           imageSrc={exprecipesImage}
           title="Project 2: ExpRecipes"
@@ -62,11 +63,11 @@ export default function Portfolio() {
           target="_blank"
           color="warning"
         />
-        <Card
-          imageSrc={Explorot}
-          title="Explorot"
-          description="LEARN THE TAROT WITH NUMEROLOGY, ASTROLOGY, AND MEANINGS!"
-          link="https://explorot.herokuapp.com/"
+         <Card
+          imageSrc={weatherImage}
+          title="Project 1: Weather App"
+          description="FIVE DAY WEATHER FORECAST WHEN YOU SEARCH ANY CITY!"
+          link="https://rcass13.github.io/weather-module-6/"
           target="_blank"
           color="success"
         />
